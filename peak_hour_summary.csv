@@ -1,0 +1,3 @@
+peak_label,trip_count,average_delay_min,delayed_percentage
+Off-peak,1241,13.48054794520548,75.34246575342466
+Peak hour,759,13.05752305665349,74.30830039525692

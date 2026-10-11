@@ -1,0 +1,3 @@
+Note
+"Run public_transport_analysis.R in R/RStudio to generate Random Forest evaluation, confusion matrix, predictions, and feature importance."
+The R-generated accuracy is based on the synthetic dataset and may not equal the PPT's reported 74.94%.
